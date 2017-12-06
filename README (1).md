@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 6,2017)
 
 ### Student Name:  
-(First and Last Name)
+(Sydney Vincent)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Learning how to create seminole movie connections with AJAX, JSON and API.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://smv13.github.io/lesson8/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned that AJAX is an acronym for Asynchronous JavaScript and XML )
+2. (I learned that $.ajax() function is a behind the scene function using a preset configuration)
+3. (I learned that the url parameter is a string containing the URL you want to reach with the Ajax call, while options is
+an object literal containing the configuration for the Ajax request.)
